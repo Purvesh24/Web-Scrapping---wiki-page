@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  5 21:29:01 2019
 
-@author: krish.naik
+"""
+Wikipedia web page on global warming 
 """
 
 import nltk
